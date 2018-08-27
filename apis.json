@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Transavia",
+	"description": "This is a repository of transavia APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/transavia.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://transavia.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Transavia",
+			"x-api-slug": "transavia",
+			"description": "Want to fly affordably to more than 100 destinations in Europe? Book a flight with Transavia!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28522-airports-api-v2.jpg",
+			"humanURL": "http://transavia.com",
+			"baseURL": "https://tst.api.transavia.com//v3/routes",
+			"tags": "Transavia",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/transavia/master/_listings/transavia/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Transavia",
+	"include": [
+		{
+			"name": "Transavia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/transavia/master/_listings/transavia/apis.yaml"
+		}
+	]
+}
