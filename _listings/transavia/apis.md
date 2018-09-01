@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28522-airp
 x-kinRank: "7"
 x-alexaRank: "12365"
 tags: Transavia
-created: "2018-08-27"
-modified: "2018-08-27"
+created: "2018-08-31"
+modified: "2018-08-31"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/transavia/master/_listings/transavia/apis.md
 specificationVersion: "0.14"
 apis:
